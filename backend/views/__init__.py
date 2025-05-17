@@ -1,0 +1,1 @@
+from .item_views import item_list, item_detail
